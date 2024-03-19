@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ManasTrived07
+- 👀 I’m interested in Manual & Automation Testing
